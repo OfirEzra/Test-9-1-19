@@ -32,6 +32,7 @@ namespace ConsoleApp10
 				a[i] = r.Next(101);
 				b[i] = r.Next(101);
 			}
-		}
+		}
+
 	}
 }
