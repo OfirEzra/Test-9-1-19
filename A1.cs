@@ -19,6 +19,6 @@ namespace ConsoleApp10
 		private static void Power2(ref int i)
 		{
 			i = i * 2;
-		}
+		}
 	}
 }
